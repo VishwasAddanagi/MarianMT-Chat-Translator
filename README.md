@@ -1,4 +1,5 @@
-MarianMT-Chat-Translator
+**MarianMT-Chat-Translator:**
+
 **Overview:**
 MarianMT-Chat-Translator is a real-time chat application with integrated machine translation using MarianMT, an open-source translation model from Hugging Face. The app enables users to communicate seamlessly across different languages, translating messages as they are sent and received.
 
